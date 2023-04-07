@@ -32,7 +32,7 @@
 			},
 			"accounts": [{
 				"@type": "/cosmos.auth.v1beta1.BaseAccount",
-				"address": "did:fury:iaa18gxfa4fhcskyphad3dzyjtn380c0rv3mezrrfj",
+				"address": "did:fury:iaa19kx202c64xaevf43e7k4dcm4wq8rrz5lhc04kp",
 				"pub_key": null,
 				"account_number": "0",
 				"sequence": "0"
@@ -209,7 +209,7 @@
 					"amount": "100000000000"
 				}]
 			}, {
-				"address": "did:fury:iaa18gxfa4fhcskyphad3dzyjtn380c0rv3mezrrfj",
+				"address": "did:fury:iaa19kx202c64xaevf43e7k4dcm4wq8rrz5lhc04kp",
 				"coins": [{
 					"denom": "utfury",
 					"amount": "100000000000"
